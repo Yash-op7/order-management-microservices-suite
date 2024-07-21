@@ -1,2 +1,2 @@
 # Architecture Diagram
-!(architecture.png)[assets/architecture.png]
+![Architecture Diagram](assets/architecture.png)
